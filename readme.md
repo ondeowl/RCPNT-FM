@@ -5,7 +5,9 @@
 Pure Data FM synth with Lemur templates for iPad
 
 ___________
+
 Description
+
 ----
 RCPNT-FM_0.1 is a Frequency Modulation Synthesizer built with Pure Data and featuring:
 	
@@ -28,7 +30,7 @@ RCPNT-FM_0.1 is a Frequency Modulation Synthesizer built with Pure Data and feat
 
 
 Feel free to play,share,edit!
-----
+
 ___________
 
 Frequency Modulation Algorithm :
@@ -105,11 +107,8 @@ Links:
 - http://puredata.hurleur.com/
 - http://lists.puredata.info
 - http://recipient.cc
-----
 alessandro@recipient.cc
-----
 Recipient Collective 2014
-----
 http://recipient.cc
 
 
