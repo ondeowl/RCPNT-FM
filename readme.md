@@ -4,10 +4,8 @@
 =========
 Pure Data FM synth with Lemur templates for iPad
 
-___________
 
 Description
-
 ----
 RCPNT-FM_0.1 is a Frequency Modulation Synthesizer built with Pure Data and featuring:
 	
@@ -37,13 +35,12 @@ Frequency Modulation Algorithm :
 ----
 
 Based on John Chowning old but fundamental paper "The Synthesis of Complex Audio Spectra by Means of Frequency Modulation"
-___________
+
 
 
 Plug and Play:
 ----
 You can play with the custom Lemur template, with any Midi keyboard/device, or arpeggiator. Just plug your device in, open the patch and enjoy. Use IAC drivers to send midi datas from other softwares/DAWs.
-___________
 
 Info: 
 ----
@@ -51,7 +48,6 @@ Info:
 - Check help-control.pd to know more about parameters.
 - Port for OSC stream is 8006
 
-___________
 
 Package Content:
 ---------------
@@ -104,9 +100,13 @@ Credits:
 - everyone @ Recipient Collective
 
 Links:
+----
 - http://puredata.hurleur.com/
 - http://lists.puredata.info
 - http://recipient.cc
+
+----
+
 alessandro@recipient.cc
 Recipient Collective 2014
 http://recipient.cc
