@@ -34,7 +34,7 @@ ___________
 Frequency Modulation Algorithm :
 ----
 
-Based on John Chowning old but fundamental paper "The Synthesis of Complex Audio Spectra by Means of Frequency Modulation"
+Based on John Chowning's old but fundamental paper "The Synthesis of Complex Audio Spectra by Means of Frequency Modulation"
 
 
 
