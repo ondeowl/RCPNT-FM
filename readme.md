@@ -13,15 +13,15 @@ RCPNT-FM_0.1 is a Frequency Modulation Synthesizer built with Pure Data and feat
 * 3 Modulators
 * 3 Modulation indexes couples
 * 6 Drawable Envelopes :
-	- 1 Global Amp Envelope [envelope looping on release point]
-	- 1 for Pitch Modulation,
-	- 1 for Frequency Modulation Ratios,
-	- 3 for modulation indexes.
-	- LFO
+	- Global Amp Envelope [envelope looping on release point]
+	- Pitch Modulation,
+	- Frequency Modulation Ratios 
+	- 3 envelopes for modulation indexes.
+	- LFO (Hz/ClockDiv)
 	- You can set the LFOs rates directly in Hz
-    - dependent on the clock (BPM) 
-    - or on the note duration (n/dur).
-	- You can also tie LFO tables reading to Global Envelope one.
+    	  dependent on the clock (BPM) 
+     	  or on the note duration (n/dur).
+	- You can also bind LFO tables reading to the Global Envelope one.
 * 1 ADSR Envelope generator
 * 5 selectable basic waveforms and an interface to build them as sine sums.
 * A LEMUR Ipad custom INTERFACE with a STEP-SEQUENCER (you can sync to an EXTERNAL MIDI CLOCK), step-based musical MODES selection, and DRAWABLE ENVELOPES with breakpoint functions. You can play the synth without looking at your laptop screen.
@@ -30,23 +30,6 @@ RCPNT-FM_0.1 is a Frequency Modulation Synthesizer built with Pure Data and feat
 Feel free to play,share,edit!
 
 ___________
-
-Frequency Modulation Algorithm :
-----
-
-Based on John Chowning's old but fundamental paper "The Synthesis of Complex Audio Spectra by Means of Frequency Modulation"
-
-
-
-Plug and Play:
-----
-You can play with the custom Lemur template, with any Midi keyboard/device, or arpeggiator. Just plug your device in, open the patch and enjoy. Use IAC drivers to send midi datas from other softwares/DAWs.
-
-Info: 
-----
-
-- Check help-control.pd to know more about parameters.
-- Port for OSC stream is 8006
 
 
 Package Content:
@@ -60,6 +43,18 @@ Package Content:
 * RCPNTlemur-intclock - "RCPNT-FM" Lemur template with internal clock (still buggy)
 * RCPNTlemur-extclock - "RCPNT-FM" Lemur template with external clock sync
 ___________
+
+
+Plug and Play:
+----
+You can play with the custom Lemur template, with any Midi keyboard/device, or arpeggiator. Just plug your device in, open the patch and enjoy. Use IAC drivers to send midi datas from other softwares/DAWs.
+
+Info: 
+----
+
+- Check help-control.pd to know more about parameters.
+- Port for OSC stream is 8006
+
 
 Known Problems and limitations: 
 ----
