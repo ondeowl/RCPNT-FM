@@ -18,10 +18,10 @@ RCPNT-FM_0.1 is a Frequency Modulation Synthesizer built with Pure Data and feat
 	- Frequency Modulation Ratios 
 	- 3 envelopes for modulation indexes.
 	- LFO (Hz/ClockDiv)
-	- You can set the LFOs rates directly in Hz
-    	  dependent on the clock (BPM) 
+	- You can set the LFOs rates directly in Hz,
+    	  dependent on the clock (BPM) ,
      	  or on the note duration (n/dur).
-	- You can also bind LFO tables reading to the Global Envelope one.
+	- You can also bind LFO tables reading to the Global Envelope LFO.
 * 1 ADSR Envelope generator
 * 5 selectable basic waveforms and an interface to build them as sine sums.
 * A LEMUR Ipad custom INTERFACE with a STEP-SEQUENCER (you can sync to an EXTERNAL MIDI CLOCK), step-based musical MODES selection, and DRAWABLE ENVELOPES with breakpoint functions. You can play the synth without looking at your laptop screen.
@@ -60,7 +60,7 @@ Known Problems and limitations:
 ----
 - Global Envelope Sustain/Loop Precision	
 - Lemur Step Sequencer (internal-clock precision)
-- LFOs rate ranges change still not working
+- LFOs rate ranges not working (on iPad)
 - Editing wavetables content while reading with tabosc~ creates audio drop-outs and clicks
 - Global Envelope LFO works only in looped parts of the envelope
 ___________
