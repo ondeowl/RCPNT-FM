@@ -53,7 +53,7 @@ Info:
 ----
 
 - Check help-control.pd to know more about parameters.
-- Port for OSC stream is 8006
+- The UDP port is 8006
 
 
 Known Problems and limitations: 
