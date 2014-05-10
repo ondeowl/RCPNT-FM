@@ -27,7 +27,7 @@ RCPNT-FM_0.1 is a Frequency Modulation Synthesizer built with Pure Data and feat
 * A LEMUR Ipad custom INTERFACE with a STEP-SEQUENCER (which you can sync to an EXTERNAL MIDI CLOCK), step-based musical MODE selection, and DRAWABLE ENVELOPES with breakpoint functions. You can play the synth without looking at your laptop screen.
 
 
-Feel free to play,share,edit!
+Feel free to play,share and edit!
 
 ___________
 
