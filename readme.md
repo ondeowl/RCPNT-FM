@@ -72,15 +72,15 @@ Future Improvements:
 - Lists of Harmonic and Inharmonic c/m Ratios
 - Global Envelope Optimization
 - Wavetable-morphing(Main Oscillator)
-- Solve sinesum clicks problem
+- Solution for sinesum clicks problem
 - Filters
 - Reverb
 - Pitchbend range
 - Better ADSR, this one's a bit (Pd interface only)
 - Better Lemur Step Sequencer	
 - Arpeggiator
-- Physics on sliders and bouncing breakpoints for dynamic tables editing
-- Add editable control ranges (for duration, ratios, indexes)
+- Physics on sliders and bouncing breakpoints for dynamic table editing
+- Add editable control ranges (for duration, ratio, index)
 - Better midi Clock sync
 
 Credits:
@@ -89,8 +89,8 @@ Credits:
 - All the pure data hurleur community! Thanks!
 - Miller Puckette
 - John M. Chowning [The Synthesis of Complex Audio Spectra by Means of Frequency Modulation] 
-- Bouncing Multislider taken from Lemur demo project <IPad-StudioCombo>
-- Waves Builder (sines sum) based on PDDP Tutorials
+- Bouncing Multislider taken from the Lemur demo project <IPad-StudioCombo>
+- Wave Builder (sines sum) based on PDDP Tutorials
 - Control Rate Phasor based on Jamie Bullock's one (lists.puredata)  
 - everyone @ Recipient Collective
 
